@@ -331,6 +331,7 @@ footer {
 @media (max-width: 970px) {
   .nav_div button {
     width: 200%;
+    font-size: 5%;
   }
   .product_div_1 div h1 {
     font-size: 20px;
