@@ -66,7 +66,6 @@ nav {
   font-family: Roboto;
   font-size: 12px;
   font-weight: 500;
-  line-height: 18px;
   letter-spacing: 0px;
   text-align: center;
   background-color: #111b47;
@@ -168,7 +167,7 @@ p {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
-  padding: 2px;
+  padding: 2px  ;
   letter-spacing: 0px;
   text-align: center;
   background-color: #111b47;
@@ -176,7 +175,7 @@ p {
 }
 footer {
   background: #e7ecff;
-  padding: 5% 0;
+  padding: 2% 0 5% 0;
 }
 .lower_footer {
   padding: 10px;
@@ -272,7 +271,7 @@ footer {
 .upper_footer {
   justify-content: space-around;
   display: flex;
-  padding-bottom: 50px;
+  padding-bottom: 2%;
   align-items: center;
 }
 .footer_text_div {
@@ -399,12 +398,12 @@ footer {
   .button_black {
     font-size: 70%;
     width: fit-content;
-    padding: 5px;
+    padding: 10px;
   }
   .button_white {
     font-size: 70%;
     width: fit-content;
-    padding: 5px;
+    padding: 10px;
   }
   li {
     margin: 7px;
