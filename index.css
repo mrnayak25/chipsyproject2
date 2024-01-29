@@ -330,8 +330,8 @@ footer {
 @media (max-width: 970px) {
   .nav_div button {
     width: 200%;
-    font-size: 5%;
-    height: 15px;
+    font-size: 15px;
+    height: 20px;
   }
   .product_div_1 div h1 {
     font-size: 20px;
@@ -339,6 +339,9 @@ footer {
   }
   .product_div_1 .image1 {
     text-align: right;
+  }
+  .icon{
+    font-size: 20px;
   }
   .product_div {
     text-align: center;
@@ -408,13 +411,13 @@ footer {
   }
   li {
     margin: 7px;
-    font-size: 30%;
+    font-size: 13px;
   }
   .nav_div_link {
     display: none;
   }
   .landing {
-    font-size: 50%;
+    font-size: 20px;
   }
   .footer_img {
     height: 10px;
@@ -439,8 +442,8 @@ footer {
     font-size: 10px;
   }
   .purchase_bt {
-    font-size: 25%;
-    height: 5%;
+    font-size: 15px;
+    height: 20%;
     padding: 2px;
     width: auto;
     align-items: center;
