@@ -289,7 +289,7 @@ footer {
 .product_div2 .text {
   margin-left: 12%;
 }
-.second_image{
+.second_image {
   height: 50%;
 }
 .section {
@@ -328,31 +328,34 @@ footer {
   }
 }
 @media (max-width: 970px) {
-  nav
+  .nav_div button {
+    width: auto;
+    padding: 5%;
+  }
   .product_div_1 div h1 {
     font-size: 20px;
     text-align: center;
   }
-  .product_div_1 .image1{
-text-align: right;
+  .product_div_1 .image1 {
+    text-align: right;
   }
   .product_div {
     text-align: center;
     max-width: 75%;
     flex-direction: column-reverse;
   }
-  .product_div div{
+  .product_div div {
     text-align: center;
   }
-  .product_div div div{
+  .product_div div div {
     justify-content: space-around;
     align-items: center;
     text-align: center;
   }
-  .product_div div div h5{
+  .product_div div div h5 {
     text-align: center;
   }
-  .product_div div div p{
+  .product_div div div p {
     text-align: center;
   }
   .product_div2 {
@@ -360,18 +363,18 @@ text-align: right;
     margin-left: 0px;
     flex-direction: column-reverse;
   }
-  .product_div2 div{
+  .product_div2 div {
     justify-content: center;
     text-align: center;
     margin-left: 0px;
   }
-  .product_div2 div img{
+  .product_div2 div img {
     margin-bottom: 10%;
     margin-left: 17%;
   }
   .product_div_1 {
     margin: 25px auto;
-    align-items:end;
+    align-items: end;
     flex-direction: column-reverse;
   }
   .product_div_1 .text {
@@ -417,19 +420,19 @@ text-align: right;
   .middle_div {
     margin-top: 90px;
   }
-  .middle_div h1{
+  .middle_div h1 {
     font-size: 25px;
   }
-  .middle_div h4{
+  .middle_div h4 {
     font-size: 12px;
   }
-  .middle_div h2{
+  .middle_div h2 {
     font-size: 27px;
   }
-  .middle_div h5{
+  .middle_div h5 {
     font-size: 12px;
   }
-  .middle_div h6{
+  .middle_div h6 {
     font-size: 10px;
   }
   .purchase_bt {
@@ -441,10 +444,10 @@ text-align: right;
     text-align: center;
   }
   .first-image {
-    width:70%;
+    width: 70%;
     height: auto;
   }
-  .second-image{
+  .second-image {
     width: 50%;
   }
   .middle_div .image2 {
@@ -457,26 +460,26 @@ text-align: right;
     font-size: 20px;
     text-align: center;
   }
-  .product_div_1 .image1{
-text-align: right;
+  .product_div_1 .image1 {
+    text-align: right;
   }
   .product_div {
     text-align: center;
     max-width: 75%;
     flex-direction: column-reverse;
   }
-  .product_div div{
+  .product_div div {
     text-align: center;
   }
-  .product_div div div{
+  .product_div div div {
     justify-content: space-around;
     align-items: center;
     text-align: center;
   }
-  .product_div div div h5{
+  .product_div div div h5 {
     text-align: center;
   }
-  .product_div div div p{
+  .product_div div div p {
     text-align: center;
   }
   .product_div2 {
@@ -484,18 +487,18 @@ text-align: right;
     margin-left: 0px;
     flex-direction: column-reverse;
   }
-  .product_div2 div{
+  .product_div2 div {
     justify-content: center;
     text-align: center;
     margin-left: 0px;
   }
-  .product_div2 div img{
+  .product_div2 div img {
     margin-bottom: 10%;
     margin-left: 17%;
   }
   .product_div_1 {
     margin: 25px auto;
-    align-items:end;
+    align-items: end;
     flex-direction: column-reverse;
   }
   .product_div_1 .text {
@@ -550,7 +553,7 @@ text-align: right;
     text-align: center;
   }
   .first-image {
-    width:70%;
+    width: 70%;
     height: auto;
   }
   .middle_div .image2 {
